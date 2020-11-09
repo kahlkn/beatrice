@@ -35,7 +35,7 @@ Tinc是虚拟专用网络（VPN）守护程序，它使用隧道和加密在Inte
 - **在许多操作系统上运行并支持IPv6**
   当前支持Linux，FreeBSD，OpenBSD，NetBSD，OS X，Solaris，Windows 2000，XP，Vista和Windows 7和8平台。有关端口状态的更多信息，请参见我们关于受支持平台的部分。tinc还完全支持IPv6，既可以在其隧道上隧道传输IPv6流量，又可以在现有IPv6网络上创建隧道。
 
-以上内容来自官网（https://www.tinc-vpn.org/）简介（机译）。
+以上内容来自[官网（https://www.tinc-vpn.org/）](https://www.tinc-vpn.org/)简介（机译）。
 
 
 
