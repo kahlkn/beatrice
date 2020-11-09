@@ -79,7 +79,7 @@ tincd.exe -n dock -D -d 3
 
 
 
-![Windows 下 Tinc 服务注册和启动](通过 Tinc 组建大局域网.assets/Windows下Tinc服务注册和启动.png)
+![Windows 下 Tinc 服务注册和启动](通过%20Tinc%20组建大局域网.assets/Windows下Tinc服务注册和启动.png)
 
 
 
