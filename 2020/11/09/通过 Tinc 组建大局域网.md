@@ -2,13 +2,8 @@
 - Category:
 - Tag: Tinc
 - Author: Kahle
-- Creation Time: 2020-11-09T20:03:23.000+0800
-- Update Time: 2020-11-09T20:03:23.000+0800
-- Original:
-- Reference:
-  - [使用 Tinc 组建大内网](https://zimiao.moe/posts/53555/)
-  - [Reference Demo2](https://github.com/kahlkn)
-  - [Reference Demo3](https://github.com/kahlkn)
+- Create Time: 2020-11-09T20:03:00.000+0800
+- Update Time: 2020-11-09T20:03:00.000+0800
 
 ---
 
@@ -36,8 +31,6 @@ Tinc是虚拟专用网络（VPN）守护程序，它使用隧道和加密在Inte
   当前支持Linux，FreeBSD，OpenBSD，NetBSD，OS X，Solaris，Windows 2000，XP，Vista和Windows 7和8平台。有关端口状态的更多信息，请参见我们关于受支持平台的部分。tinc还完全支持IPv6，既可以在其隧道上隧道传输IPv6流量，又可以在现有IPv6网络上创建隧道。
 
 以上内容来自[官网（https://www.tinc-vpn.org/）](https://www.tinc-vpn.org/)简介（机译）。
-
-
 
 
 ### 正文
@@ -91,3 +84,20 @@ tincd.exe -n dock -D -d 3
 
 
 注意：调试模式时无法使用Ctrl+C停止运行，需要输入命令tinc -n dock -k才能停止运行
+
+### 来源
+
+- [Original Demo](https://github.com/kahlkn)
+
+### 参考
+
+- [使用 Tinc 组建大内网](https://zimiao.moe/posts/53555/)
+- [Reference Demo2](https://github.com/kahlkn)
+- [Reference Demo3](https://github.com/kahlkn)
+
+
+
+
+
+
+
