@@ -79,7 +79,7 @@ tincd.exe -n dock -D -d 3
 
 
 
-![Windows 下 Tinc 服务注册和启动](通过%20Tinc%20组建大局域网.assets/Windows下Tinc服务注册和启动.png)
+![Windows 下 Tinc 服务注册和启动](通过%20Tinc%20组建大局域网.assets/Windows%20下%20Tinc%20服务注册和启动.png)
 
 
 
@@ -93,11 +93,12 @@ tincd.exe -n dock -D -d 3
 
 - [使用 Tinc 组建大内网](https://zimiao.moe/posts/53555/)
 - [Reference Demo2](https://github.com/kahlkn)
+- https://gofinall.com/89.html
 - [Reference Demo3](https://github.com/kahlkn)
 
 
 
-
+https://blog.csdn.net/w670328683/article/details/51673757/
 
 
 
